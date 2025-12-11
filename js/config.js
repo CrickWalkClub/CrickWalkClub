@@ -1,2 +1,1 @@
-export const API_BASE = window.API_BASE || 'https://YOUR-BACKEND-URL';
-
+export const API_BASE = window.API_BASE || 'http://localhost:3000';
